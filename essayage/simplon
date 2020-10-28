@@ -1,0 +1,4 @@
+Bonjour aujourd'hui je vais essayer de vous expliquer un peu le versionning
+D'abord nous allons faire le script comme nous avons déjà commencé durant la semaine.
+En premier lieu je vais créer un fichier du nom de "simplon", créer un dossier du nom de "essayage" et enfin un script.sh
+Ensuite nous allons utilisé le crontab qui est un outil qui nous permet de sauvegarder périodiquement notre fichier "simplon" sur "essayage"
